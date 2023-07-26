@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720337777443",
+    "project_id": "biskandbakeadmin",
+    "storage_bucket": "biskandbakeadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720337777443:android:4069e9c0b7c52270769296",
+        "android_client_info": {
+          "package_name": "com.example.biskandbakeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720337777443-g54cdn5teeqeqhlnuk40s6qebafr0r8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE2rriCBPNFDgPDNRED0DXG896-xhX-bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720337777443-g54cdn5teeqeqhlnuk40s6qebafr0r8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
